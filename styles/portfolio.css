@@ -21,6 +21,15 @@
     border: none;
 }
 
+.phone {
+    width: 160px;
+    height: 64px;
+    left: 460px;
+    top: 589px;
+    text-size-adjust: 10px;
+    border: 1px solid #FD6E0A;
+}
+
 /* Header and navigation styles */
 nav {
     display: flex;
@@ -178,20 +187,23 @@ main {
     padding: 130px 200px;
 }
 
-.lets-content{
+.lets-content {
     color: #070707;
     font-weight: 700;
     font-size: 35px;
     margin-bottom: 20px;
     margin-top: 20px;
 }
-.lets-content input, textarea{
+
+.lets-content input,
+textarea {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 1;
     width: 100%;
     padding: 18px 30px;
 }
-.m{
-   margin-top: 500;
+
+.m {
+    margin-top: 500;
 }
