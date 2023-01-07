@@ -170,3 +170,28 @@ main {
     left: 978px;
     top: 161px;
 }
+
+.contact {
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.lets-content{
+    color: #070707;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.lets-content input, textarea{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1;
+    width: 100%;
+    padding: 18px 30px;
+}
+.m{
+   margin-top: 500;
+}
